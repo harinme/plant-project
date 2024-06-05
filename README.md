@@ -29,16 +29,14 @@
 ![image](https://github.com/harinme/plant-project/assets/152590695/3259afe1-e0a3-4fd2-ade8-913b36ee27a5)
 
 
-### 데이터 학습(Colab, vs code)
-- Colab 에서 데이터 학습 (1차, 2차)
-![image](https://github.com/harinme/plant-project/assets/152590695/50d911ff-ba0a-4fe0-8cef-8f312a67dee2)
-
+### 데이터 학습 및 결과 확인(Colab-학습, vs code-결과 확인
 ##### 1차 모델 테스트 
-##### (test img: 미니염자/ result: 라울)
+##### (test img: 미니염자/ result: 라울) ❌
 ![image](https://github.com/harinme/plant-project/assets/152590695/bd144029-5630-4aff-9c27-f974a4ad2a77)
 
-##### (test img: 레티지아/ result: 라울)
+##### (test img: 레티지아/ result: 라울) ❌
 ![image](https://github.com/harinme/plant-project/assets/152590695/7f7de55f-b619-4b13-98ad-be5b1d712955)
+
 문제점: 인식을 제대로 못함.
 원인 분석: 
 - yaml 파일에 저장된 분류가 1개 뿐이고 그마저도 '-'로 되어있음.
@@ -47,14 +45,37 @@
 ![image](https://github.com/harinme/plant-project/assets/152590695/6711e64e-1b93-4250-9e86-f62746811d21)
 개선할 부분: 1차에 빠진 청옥 데이터 셋 추가 / class 명 영어로 수정
 
-##### 2차 모델 테스트 (test img: 레티지아/ result: 라울)
+##### 2차 모델 테스트 - 1차 개선
+라울 - LumiRose
+미니염자 - Crassula
+프리티 - Rezry
+레티지아 - Letizia
+청옥 - Sedum
 ![image](https://github.com/harinme/plant-project/assets/152590695/e5a28ba9-5c80-492f-aa61-bc9d9f5be169)
+
+##### (test img: 레티지아/ result: 레티지아) ⭕
 ![image](https://github.com/harinme/plant-project/assets/152590695/6874c04f-aad4-4f2c-8ccd-90473a993b7a)
 
+##### (test img: 미니염자/ result: 미니염자) ⭕
+![image](https://github.com/harinme/plant-project/assets/152590695/8dad985d-e815-4e74-a7ba-52942f071125)
 
+##### (test img: 청옥/ result: 청옥) ⭕
+![image](https://github.com/harinme/plant-project/assets/152590695/f204d280-b410-4798-8fb8-a319e63bc0d3)
 
+##### (test img: 라울/ result: 라울) ⭕
+![image](https://github.com/harinme/plant-project/assets/152590695/c28530d4-9bce-4850-8504-4dc99728dc96)
 
+---------------------
+ 
+##### (test img: 프리티/ result: 레티지아, 미니염자, 청옥) ❌ -- conf:0.1
+![image](https://github.com/harinme/plant-project/assets/152590695/74e6534d-9343-4e10-87f9-530d4fbca3ac)
 
+##### (test img: 프리티/ result: 프리티) ⭕ But 정확도 낮은 게 多
+![image](https://github.com/harinme/plant-project/assets/152590695/84c4f814-8f82-43b5-aabc-dfc120009a7b)
+
+문제점: 프리티가 유독 정확도도 낮고 인식이 제대로 안됨
+원인 분석: 다른 종과 유사하기 때문에 더 많은 데이터셋 있어야함 / 낮은 학습량:50번
+개선 부분: 데이터 셋 추가 및 학습량 늘려보기
 
 # 추가
 - 클로버를 아시나요? 
