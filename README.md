@@ -28,7 +28,6 @@
 ![image](https://github.com/harinme/plant-project/assets/152590695/06cf4236-3506-4634-b049-a0ae364f519c)
 
 - Colab 에서 데이터 학습
-- 
 
 # 추가
 - 클로버를 아시나요? 
