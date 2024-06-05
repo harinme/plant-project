@@ -24,10 +24,37 @@
 
 ### 06.05
 #### 데이터 셋 라벨링(Roboflow)
-- 수집한 데이터 셋 라벨링
+- 수집한 데이터 셋 라벨링(1차 프리티, 라울, 레티지아, 미니 염자/ 2차 프리티, 라울, 레티지아, 미니 염자, 청옥 )
 ![image](https://github.com/harinme/plant-project/assets/152590695/06cf4236-3506-4634-b049-a0ae364f519c)
+![image](https://github.com/harinme/plant-project/assets/152590695/3259afe1-e0a3-4fd2-ade8-913b36ee27a5)
 
-- Colab 에서 데이터 학습
+
+### 데이터 학습(Colab, vs code)
+- Colab 에서 데이터 학습 (1차, 2차)
+![image](https://github.com/harinme/plant-project/assets/152590695/50d911ff-ba0a-4fe0-8cef-8f312a67dee2)
+
+##### 1차 모델 테스트 
+##### (test img: 미니염자/ result: 라울)
+![image](https://github.com/harinme/plant-project/assets/152590695/bd144029-5630-4aff-9c27-f974a4ad2a77)
+
+##### (test img: 레티지아/ result: 라울)
+![image](https://github.com/harinme/plant-project/assets/152590695/7f7de55f-b619-4b13-98ad-be5b1d712955)
+문제점: 인식을 제대로 못함.
+원인 분석: 
+- yaml 파일에 저장된 분류가 1개 뿐이고 그마저도 '-'로 되어있음.
+![image](https://github.com/harinme/plant-project/assets/152590695/593cfec0-aea1-4d34-b7fb-4d8f7361bbfe)
+- 기존 라벨링 당시 class 명을 한글로 한 것이 문제라고 추측
+![image](https://github.com/harinme/plant-project/assets/152590695/6711e64e-1b93-4250-9e86-f62746811d21)
+개선할 부분: 1차에 빠진 청옥 데이터 셋 추가 / class 명 영어로 수정
+
+##### 2차 모델 테스트 (test img: 레티지아/ result: 라울)
+![image](https://github.com/harinme/plant-project/assets/152590695/e5a28ba9-5c80-492f-aa61-bc9d9f5be169)
+![image](https://github.com/harinme/plant-project/assets/152590695/6874c04f-aad4-4f2c-8ccd-90473a993b7a)
+
+
+
+
+
 
 # 추가
 - 클로버를 아시나요? 
