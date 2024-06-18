@@ -140,10 +140,10 @@ open data 활용(https://www.gperezs.com/projects/flc.html)
 ![image](https://github.com/harinme/plant-project/assets/152590695/9d98da9e-1558-4bea-bc88-70767561fb37)
 
 
-
 ### 06.18 
 ##### 최종 모델 best_8.pt
 총 8가지 라울, 레티지아, 미니 염자, 청옥, 괴마옥, 장미허브, 모닐리포메, 축전
+
 라울 - LumiRose
 미니염자 - Crassula
 레티지아 - Letizia
@@ -152,6 +152,9 @@ open data 활용(https://www.gperezs.com/projects/flc.html)
 괴마옥 - Euphorbia
 모닐라리아 모닐리포메 - moniliformis
 장미허브 - Vicks
+
+###### APP 알고리즘 구상
+![image](https://github.com/harinme/plant-project/assets/152590695/7b9f4e6a-c33a-4712-bdf0-bc964c61f309)
 
 # 추가
 - 클로버를 아시나요? 
