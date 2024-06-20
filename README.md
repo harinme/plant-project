@@ -153,8 +153,12 @@ open data 활용(https://www.gperezs.com/projects/flc.html)
 모닐라리아 모닐리포메 - moniliformis
 장미허브 - Vicks
 
+식물별 설명화면 제작
+![화면 캡처 2024-06-20 124452](https://github.com/harinme/plant-project/assets/152591270/63d00651-ac61-4ad7-83a6-c509961a4943)
+
 ###### APP 알고리즘 구상
 ![image](https://github.com/harinme/plant-project/assets/152590695/7b9f4e6a-c33a-4712-bdf0-bc964c61f309)
+
 
 # 추가
 - 클로버를 아시나요? 
