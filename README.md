@@ -160,6 +160,20 @@ open data 활용(https://www.gperezs.com/projects/flc.html)
 ![image](https://github.com/harinme/plant-project/assets/152590695/7b9f4e6a-c33a-4712-bdf0-bc964c61f309)
 
 
+### 06.25
+##### flutter 화면 구현(windows)
+![image](https://github.com/harinme/plant-project/assets/152590695/1e1dc67a-852d-4f12-8350-6ffd4fcdbcf9)
+
+
+### 06.26
+##### flutter 구현(라이브러리 추가, flask 서버 연결-이미지 분석용 서버)
+![image](https://github.com/harinme/plant-project/assets/152590695/db3f16a1-07aa-41cb-96b3-99afe2eed70b)
+![image](https://github.com/harinme/plant-project/assets/152590695/295c6ff5-281f-4a22-a10f-26043391e6c9)
+
+![image](https://github.com/harinme/plant-project/assets/152590695/9a1d98a7-3136-4445-bdd2-2a020a8e1027)
+
+
+
 # 추가
 - 클로버를 아시나요? 
 - 클로버에는 세잎 , 네잎이 있지만 네잎이 행운을 뜻합니다
