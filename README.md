@@ -172,6 +172,13 @@ open data 활용(https://www.gperezs.com/projects/flc.html)
 
 ![image](https://github.com/harinme/plant-project/assets/152590695/9a1d98a7-3136-4445-bdd2-2a020a8e1027)
 
+### 06.28
+##### flutter 구현(식물찾기 부분 화면)
+![KakaoTalk_20240627_161843814_03](https://github.com/harinme/plant-project/assets/152591270/136b15ce-df8e-489b-a3c1-a338edaf03e9)
+![KakaoTalk_20240627_161843814_04](https://github.com/harinme/plant-project/assets/152591270/c98e1c19-6526-40b5-9844-f42ac47f8043)
+![KakaoTalk_20240627_161843814](https://github.com/harinme/plant-project/assets/152591270/a467c410-ebbf-49ef-b4c1-06bdda6f0a91)
+![KakaoTalk_20240627_161843814_01](https://github.com/harinme/plant-project/assets/152591270/dcc31541-dd88-4cc7-962c-7ea1c48eedc4)
+![KakaoTalk_20240627_161843814_02](https://github.com/harinme/plant-project/assets/152591270/26ea0e58-ae88-40cf-a193-863353acf6e6)
 
 
 # 추가
