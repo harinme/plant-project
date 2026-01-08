@@ -181,9 +181,14 @@ open data 활용(https://www.gperezs.com/projects/flc.html)
 ![KakaoTalk_20240627_161843814_02](https://github.com/harinme/plant-project/assets/152591270/26ea0e58-ae88-40cf-a193-863353acf6e6)
 
 
+
 # 추가
 - 클로버를 아시나요? 
+- ![image](https://github.com/harinme/plant-project/assets/152591273/1e79e301-b689-4c27-8782-42a5ebe3a671)
 - 클로버에는 세잎 , 네잎이 있지만 네잎이 행운을 뜻합니다
 - 모든 사람들은 행운을 원하고 저도 마찬가지였습니다
-- 그래서 행운을 찾을수 있도록 핸드폰만 있으면 모두 행운을 찾을수 있게 도와주는 앱을 만들었습니다.
-- ![image](https://github.com/harinme/plant-project/assets/152591273/1e79e301-b689-4c27-8782-42a5ebe3a671)
+- 그래서 행운을 찾을수 있도록 핸드폰만 있으면 모두 행운을 찾을수 있게 도와주는 기능을 추가했습니다.
+
+https://github.com/user-attachments/assets/497612ba-c0f2-4ba8-9cd9-96a3cb15b291
+
+
